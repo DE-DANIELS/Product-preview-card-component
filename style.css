@@ -23,7 +23,7 @@ section {
     height: 90vh;
 }
 #wrapper {
-    width: 300px;
+    width: 310px;
     background-color: var(--body-color2);
     border-radius: 10px;
 }
@@ -42,7 +42,7 @@ section {
 }
 /* LEFT SIDE */
 .about {
-    padding: 0 25px 10px;
+    padding: 0 30px 10px;
 }
 .about p:first-child{
     color: var(--text-color2);
