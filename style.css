@@ -15,8 +15,6 @@
 }
 body {
     background-color: var(--body-color1);
-}
-section {
     display: flex;
     align-items: center;
     justify-content: center;
